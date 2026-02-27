@@ -17,9 +17,7 @@
 html,body{margin:0;padding:0}
 body{
   font-family:var(--font);
-  background: radial-gradient(1200px 700px at 20% -10%, rgba(199,178,138,.18), transparent 60%),
-              radial-gradient(1000px 600px at 90% 10%, rgba(138,180,199,.14), transparent 55%),
-              linear-gradient(180deg, var(--bg), #07080b 70%);
+  background: linear-gradient(135deg, #0f172a, #1e293b);
   color:var(--text);
   line-height:1.55;
 }
